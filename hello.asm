@@ -1,4 +1,13 @@
 
+; --------------------------------------------------------------
+; Writes "Hello, World!" to the console using only system calls.
+; Runs on 64-bit x86 Linux only.
+;
+; By Jackson Naufal
+; Version 1.0
+; Since: 2022-11-22
+; --------------------------------------------------------------
+
 section .bss
     ; variables
 
